@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9dd73b3bc15fb2d4390b2cb39ee33caf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mytupi
+  fontNames:
+  - Mytupi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 672181e2a895fa24a89d2cfc7a96529e, type: 3}
+  - {fileID: 12800000, guid: 9a0d034abf18c3546a22f106433e0061, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
